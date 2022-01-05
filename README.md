@@ -3,7 +3,7 @@
 
 I am Anthony Stanis and I have decided to try coding again. Though learning to code has been challenging in the past, the practical applications of coding have made me give it another try. Also my High School started me out with Java and C++ which doesn't make sense since those languages are tougher to learn.
 
-![This is an image] (https://assets.cyllenius.com/media/EDC%204.jpg)
+![This is a picture of a rave] (https://assets.cyllenius.com/media/EDC%204.jpg)
 
 I Love electronic dance music and I would love to create a project that involves examinining the history of it. After I graduate it would be nice to utilize coding to make event marketing tasks more time efficient for myself or potential employers.
 
